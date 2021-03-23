@@ -4,7 +4,7 @@ A **growth mindset** believes that one’s fundamental abilities can be develope
 
 
 ![mindset](https://specials-images.forbesimg.com/imageserve/637192394/960x0.jpg?fit=scale)
-  ### _Three Ways to Develop a Growth Mindset_
+  ### Three Ways to Develop a Growth Mindset
   * View challenges as opportunities.
   * Follow the research on brain plasticity.
   * Value the process over the end result.
