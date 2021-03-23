@@ -18,4 +18,4 @@ A **growth mindset** believes that one’s fundamental abilities can be develope
   
  Hello my name is thaer braizat ,I am computer engineer ,I have a little background about front-end
  
- [my GitHub page] https://github.com/thaerbraizat
+ [my GitHub page] (https://github.com/thaerbraizat)
