@@ -1,0 +1,1 @@
+Git is a DVCS that stores data in a file system made up of snapshots, Git is a local machine keep track history for your computer ,and you can do all work offline locally ,when you complete your work in your pc (locally) you can upload your work to GitHub so all can see your work  
