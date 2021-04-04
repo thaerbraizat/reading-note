@@ -1,7 +1,7 @@
 # css
 ![css](https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/jrPjPNCJt7RTS1dA8pULQHv4/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882)
 
-You can specify any color in** CSS ** in one of three ways:
+You can specify any color in **CSS** in one of three ways:
 1. *Rgb values*
 These express colors in terms of how much red, green and blue are used to make it up. 
 For example: rgb(100,100,90)
