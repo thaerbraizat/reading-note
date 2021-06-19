@@ -2,6 +2,9 @@ Hello my name is thaer braizat ,I am computer engineer ,I have a little backgrou
  
  [my GitHub page](https://github.com/thaerbraizat)
 
+ # Code 102 - Intro to Software Development
+ ## Reading Notes
+
 
 |  Assignment |    link             |
 | ----------- | -----------         |
@@ -12,8 +15,10 @@ Hello my name is thaer braizat ,I am computer engineer ,I have a little backgrou
 |  read05.md  | [class5](read05.md) |
 |  read06.md  | [class6](read06.md) |
 
-# reading-note-201
+
+# Code 201 - Foundations of Software Development
 ## Code 201 Reading Notes
+
 welcome to my reading note 
 
 This is my reading note for code 201.
@@ -37,3 +42,19 @@ Enjoy reading 😄
 |  read014.md  | [class14](read014.md) |
 |  read014b.md | [class15](read014b.md)|
 |  read015.md  | [class15](read015.md) |
+
+
+
+# Code 301 - Intermediate Software Development
+## Code 301 Reading Notes
+welcome to my reading note 
+
+This is my reading note for code 201.
+Enjoy reading 😄
+
+|  Assignment |    link             |
+| ----------- | -----------         |
+|  readA.md   | [class1](readA.md) |
+|  readB.md   | [class2](readB.md) |
+|  readC.md   | [class3](readC.md) |
+|  readD.md   | [class4](readD.md) |
