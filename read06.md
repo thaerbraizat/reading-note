@@ -1,5 +1,5 @@
 # css
-![css](https://community-cdn-digitalocean-com.global.ssl.fastly.net/variants/jrPjPNCJt7RTS1dA8pULQHv4/035575f2985fe451d86e717d73691e533a1a00545d7230900ed786341dc3c882)
+![css](https://www.google.com/search?q=intro+to+react&sxsrf=ALeKk013K0xB-NqafPj_-K09RXpFjYzykw:1624162260743&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi4ou_0q6XxAhWoB2MBHZUyDrcQ_AUoAnoECAEQBA&biw=1536&bih=722#imgrc=Cw_zyg8CLzfZ8M)
 
 You can specify any color in **CSS** in one of three ways:
 1. *Rgb values*
