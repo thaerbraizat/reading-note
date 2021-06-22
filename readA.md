@@ -1,7 +1,5 @@
 # Introduction to React and Components
 
-
-
 * What is a component?
 A component is a modular, portable, replaceable, and reusable set of well-defined functionality that encapsulates its implementation and exporting it as a higher-level interface.
 * What are the charactistics of a component?
