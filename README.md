@@ -58,3 +58,5 @@ Enjoy reading 😄
 |  readB.md   | [class2](readB.md) |
 |  readC.md   | [class3](readC.md) |
 |  readD.md   | [class4](readD.md) |
+|  readE.md   | [class5](readE.md) |
+
