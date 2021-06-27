@@ -52,11 +52,12 @@ welcome to my reading note
 This is my reading note for code 201.
 Enjoy reading 😄
 
-|  Assignment |    link             |
-| ----------- | -----------         |
+|  Assignment |    link            |
+| ----------- | -----------        |
 |  readA.md   | [class1](readA.md) |
 |  readB.md   | [class2](readB.md) |
 |  readC.md   | [class3](readC.md) |
 |  readD.md   | [class4](readD.md) |
 |  readE.md   | [class5](readE.md) |
+|  readF.md   | [class6](readF.md) |
 
