@@ -60,4 +60,4 @@ Enjoy reading 😄
 |  readD.md   | [class4](readD.md) |
 |  readE.md   | [class5](readE.md) |
 |  readF.md   | [class6](readF.md) |
-
+|  readG.md   | [class6](readG.md) |

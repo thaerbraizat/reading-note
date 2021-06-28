@@ -18,8 +18,8 @@ Use the ternary operator to simplify your if-else statements that are used to as
 
 
 ### Resource
-* [React Docs - Forms](https://reactjs.org/docs/forms.html)
-* [The Conditional (Ternary) Operator Explained](https://codeburst.io/javascript-the-conditional-ternary-operator-explained-cac7218beeff)
+* [conversation-about-rest](https://gist.github.com/brookr/5977550)
+* [Method Definitions](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
 
 
 
