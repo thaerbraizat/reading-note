@@ -67,3 +67,5 @@ Enjoy reading 😄
 |  readK.md   | [class11](readK.md) |
 |  readL1.md  | [class12](readL1.md)|
 |  readM.md   | [class13](readM.md) |
+|  readO.md   | [class14](readO.md) |
+|  readP.md   | [class15](readP.md) |
