@@ -1,4 +1,4 @@
-Hello my name is thaer braizat ,I am computer engineer ,I have a little background about front-end
+Hello my name is thaer braizat ,I am computer engineer ,I have background in front-end
  
  [my GitHub page](https://github.com/thaerbraizat)
 
@@ -69,3 +69,15 @@ Enjoy reading 😄
 |  readM.md   | [class13](readM.md) |
 |  readO.md   | [class14](readO.md) |
 |  readP.md   | [class15](readP.md) |
+
+
+# Code 401 - Advanced Software Development in Full-Stack JavaScript
+## Code 401 Reading Notes
+
+welcome to my reading note 
+This is my reading note for code 401.
+Enjoy reading 😄
+
+|  Assignment |    link             |
+| ----------- | ----------------    |
+|  readi.md   | [class1](readi.md)  |
