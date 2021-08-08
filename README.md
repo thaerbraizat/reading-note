@@ -78,6 +78,7 @@ welcome to my reading note
 This is my reading note for code 401.
 Enjoy reading 😄
 
-|  Assignment |    link             |
-| ----------- | ----------------    |
-|  readi.md   | [class1](readi.md)  |
+|  Assignment |    link               |
+| ----------- | ----------------      |
+|  readi.md   | [class1](readi.md)    |
+|  readi1.md  | [class1](readi1.md)   |
