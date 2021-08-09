@@ -83,3 +83,4 @@ Enjoy reading 😄
 |  readi.md   | [class1](readi.md)    |
 |  readi1.md  | [class1](readi1.md)   |
 |  readi2.md  | [class2](readi2.md)   |
+|  readi3.md  | [class2](readi3.md)   |
