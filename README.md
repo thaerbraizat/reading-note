@@ -81,7 +81,8 @@ Enjoy reading 😄
 |  Assignment |    link               |
 | ----------- | ----------------      |
 |  readi.md   | [class1](readi.md)    |
-|  readi1.md  | [class1](readi1.md)   |
-|  readi2.md  | [class2](readi2.md)   |
-|  readi3.md  | [class2](readi3.md)   |
-|  readi4.md  | [class2](readi4.md)   |
+|  readi1.md  | [class2](readi1.md)   |
+|  readi2.md  | [class3](readi2.md)   |
+|  readi3.md  | [class4](readi3.md)   |
+|  readi4.md  | [class5](readi4.md)   |
+|  readi5.md  | [class6](readi5.md)   |
