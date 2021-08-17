@@ -88,3 +88,4 @@ Enjoy reading 😄
 |  readi5.md  | [class6](readi5.md)   |
 |  readi6.md  | [class7](readi6.md)   |
 |  readi7.md  | [class8](readi7.md)   |
+|  readi8.md  | [class9](readi8.md)   |
