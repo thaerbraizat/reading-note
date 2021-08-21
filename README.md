@@ -78,14 +78,15 @@ welcome to my reading note
 This is my reading note for code 401.
 Enjoy reading 😄
 
-|  Assignment |    link               |
-| ----------- | ----------------      |
-|  readi.md   | [class1](readi.md)    |
-|  readi1.md  | [class2](readi1.md)   |
-|  readi2.md  | [class3](readi2.md)   |
-|  readi3.md  | [class4](readi3.md)   |
-|  readi4.md  | [class5](readi4.md)   |
-|  readi5.md  | [class6](readi5.md)   |
-|  readi6.md  | [class7](readi6.md)   |
-|  readi7.md  | [class8](readi7.md)   |
-|  readi8.md  | [class9](readi8.md)   |
+|  Assignment |    link                |
+| ----------- | ----------------       |
+|  readi.md   | [class1](readi.md)     |
+|  readi1.md  | [class2](readi1.md)    |
+|  readi2.md  | [class3](readi2.md)    |
+|  readi3.md  | [class4](readi3.md)    |
+|  readi4.md  | [class5](readi4.md)    |
+|  readi5.md  | [class6](readi5.md)    |
+|  readi6.md  | [class7](readi6.md)    |
+|  readi7.md  | [class8](readi7.md)    |
+|  readi8.md  | [class9](readi8.md)    |
+|  readi9.md  | [class10](readi9.md)   |
