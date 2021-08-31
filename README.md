@@ -97,3 +97,4 @@ Enjoy reading 😄
 |  readi16.md | [class16](readi16.md)  |
 |  readi17.md | [class17](readi17.md)  |
 |  readi18.md | [class18](readi18.md)  |
+|  readi19.md | [class19](readi19.md)  |
