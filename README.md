@@ -1,10 +1,11 @@
-Hello my name is thaer braizat ,I am computer engineer ,I have background in front-end
- 
+
+**Hello my name is thaer braizat ,I am computer engineer ,I have background in front-end**
+
  [my GitHub page](https://github.com/thaerbraizat)
 
- # Code 102 - Intro to Software Development
- ## Reading Notes
+# Code 102 - Intro to Software Development
 
+## Reading Notes
 
 |  Assignment |    link             |
 | ----------- | -----------         |
@@ -15,11 +16,11 @@ Hello my name is thaer braizat ,I am computer engineer ,I have background in fro
 |  read05.md  | [class5](read05.md) |
 |  read06.md  | [class6](read06.md) |
 
-
 # Code 201 - Foundations of Software Development
+
 ## Code 201 Reading Notes
 
-welcome to my reading note 
+welcome to my reading note
 
 This is my reading note for code 201.
 Enjoy reading 😄
@@ -43,11 +44,11 @@ Enjoy reading 😄
 |  read014b.md | [class15](read014b.md)|
 |  read015.md  | [class15](read015.md) |
 
-
-
 # Code 301 - Intermediate Software Development
+
 ## Code 301 Reading Notes
-welcome to my reading note 
+
+welcome to my reading note
 
 This is my reading note for code 201.
 Enjoy reading 😄
@@ -70,11 +71,11 @@ Enjoy reading 😄
 |  readO.md   | [class14](readO.md) |
 |  readP.md   | [class15](readP.md) |
 
-
 # Code 401 - Advanced Software Development in Full-Stack JavaScript
+
 ## Code 401 Reading Notes
 
-welcome to my reading note 
+welcome to my reading note
 This is my reading note for code 401.
 Enjoy reading 😄
 
@@ -98,3 +99,5 @@ Enjoy reading 😄
 |  readi17.md | [class17](readi17.md)  |
 |  readi18.md | [class18](readi18.md)  |
 |  readi19.md | [class19](readi19.md)  |
+|  readi20.md | [class20](readi20.md)  |
+|  readi21.md | [class21](readi21.md)  |

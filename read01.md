@@ -1,3 +1,0 @@
-Markdown is a lightweight and easy-to-use syntax for styling all forms of writing on the GitHub platform.
-
-GitHub pages lets you turn GitHub repositories into elegant website to show your projects, documentations and anything else you want to share with the world GitHub pages give you streamlined publishing experience with help of jekull, jekyll is an open source tool that transforms plain text files into website but its also support things like variables templets and drafts which give you more control over the format and presentation your site.
