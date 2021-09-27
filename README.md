@@ -109,4 +109,5 @@ Enjoy reading 😄
 |  readi27.md | [class27](readi27.md)  |
 |  readi28.md | [class28](readi28.md)  |
 |  readi29.md | [class29](readi29.md)  |
+|  readi30.md | [class30](readi30.md)  |
 
